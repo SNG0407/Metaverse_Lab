@@ -27,8 +27,12 @@
 https://user-images.githubusercontent.com/32747387/215151213-35296bff-06ec-4205-8ebc-30bce3b5a48e.mp4
 
 <br/>
+
 ## 🚩 수상 이력
 <br/>
 최우수상 : 2022 캡스톤디자인 경진대회
 <br/>
 장려상 : 2022 실감미디어 경진대회
+
+![image](https://user-images.githubusercontent.com/63523334/222611400-b57fc1fd-1ee4-4699-b492-7673c70d3018.png)
+![image](https://user-images.githubusercontent.com/63523334/222611713-338f4099-660c-4c71-8782-c2a8395e9e97.png)
