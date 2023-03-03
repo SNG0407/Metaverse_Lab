@@ -28,4 +28,4 @@ https://user-images.githubusercontent.com/32747387/215151213-35296bff-06ec-4205-
 
 [수상 이력]
 최우수상 : 2022 캡스톤디자인 경진대회
-<img width="500" height = "700" alt="image" src="https://user-images.githubusercontent.com/63523334/222610218-85bf8a9d-4645-4e73-b15b-684e05faa4e3.png">
+장려상 : 2022 실감미디어 경진대회
