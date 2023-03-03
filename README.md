@@ -26,3 +26,6 @@
 ## 🚩 소개 영상
 https://user-images.githubusercontent.com/32747387/215151213-35296bff-06ec-4205-8ebc-30bce3b5a48e.mp4
 
+[수상 이력]
+최우수상 : 2022 캡스톤디자인 경진대회
+<img width="1400" height = "350" alt="image" src="https://user-images.githubusercontent.com/63523334/222610218-85bf8a9d-4645-4e73-b15b-684e05faa4e3.png">
